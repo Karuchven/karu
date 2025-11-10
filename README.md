@@ -1,2 +1,2 @@
 # karu
-The karu browser.
+## The karu browser.
